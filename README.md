@@ -19,6 +19,7 @@ VISHWASA: A web built with HTML, CSS, and JavaScript project providing articles 
 * **Content Creation:** Write compelling articles, stories, and resources related to sustainability.
 * **Web Development:** Enhance the website's functionality, design, and user experience.
 * **Design & UI/UX:** Create beautiful and intuitive interfaces that engage our audience.
+* Adding a feature to switch between light and dark mode.
 * **Community Engagement:** Help us build and nurture a vibrant community of sustainability advocates.
 * **Accessibility:** Ensure the site is accessible to all users.
 * **Translations:** Help us reach a global audience by translating the site into multiple languages.
